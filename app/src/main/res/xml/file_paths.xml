@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="converted_files" path="conversions/" />
+    <files-path name="documents" path="documents/" />
+    <external-files-path name="external_documents" path="Documents/" />
+</paths>

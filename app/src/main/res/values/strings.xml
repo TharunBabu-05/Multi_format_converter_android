@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Document Converter</string>
+    <string name="select_file">Select File</string>
+    <string name="convert">Convert</string>
+    <string name="converting">Converting…</string>
+    <string name="conversion_complete">Conversion Complete</string>
+    <string name="conversion_failed">Conversion Failed</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="docx_to_pdf">Convert to PDF</string>
+    <string name="pdf_to_docx">Convert to DOCX</string>
+    <string name="cancel">Cancel</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+</resources>
