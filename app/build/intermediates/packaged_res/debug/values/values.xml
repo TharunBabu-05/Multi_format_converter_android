@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="error">#D32F2F</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="secondary">#FF6F00</color>
+    <color name="secondary_dark">#E65100</color>
+    <color name="success">#388E3C</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Document Converter</string>
+    <string name="cancel">Cancel</string>
+    <string name="conversion_complete">Conversion Complete</string>
+    <string name="conversion_failed">Conversion Failed</string>
+    <string name="convert">Convert</string>
+    <string name="converting">Converting…</string>
+    <string name="docx_to_pdf">Convert to PDF</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="open">Open</string>
+    <string name="pdf_to_docx">Convert to DOCX</string>
+    <string name="select_file">Select File</string>
+    <string name="share">Share</string>
+    <style name="Theme.MultiFormatConverter" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
